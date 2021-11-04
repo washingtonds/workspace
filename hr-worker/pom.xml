@@ -12,7 +12,7 @@
 	<artifactId>hr-worker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hr-worker</name>
-	<description>Estudo Udemy</description>
+	<description>Udemy</description>
 
 	<properties>
 		<java.version>11</java.version>
