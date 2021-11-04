@@ -4,7 +4,6 @@ import com.wdsestudos.hrpayroll.WorkerFeignClient;
 import com.wdsestudos.hrpayroll.entities.Payment;
 import com.wdsestudos.hrpayroll.entities.Worker;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 @Service
